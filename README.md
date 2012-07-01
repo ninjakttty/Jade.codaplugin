@@ -1,4 +1,4 @@
-CoffeeScript Coda2 plug-in
+Jade Coda2 plug-in
 ===================
 
 Contains the following commands specific to the current file:
